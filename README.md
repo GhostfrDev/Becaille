@@ -17,7 +17,7 @@ https://github.com/Becaille/Tous-mes-Projet
 
 - Motivation **sans limite**
 
-- Me contacter par mail **becaille.pierru@gmail.com**
+- Me contacter par mail **ghostfr.dev@gmail.com**
 
 <h3 align="left">Se connecter avec moi :</h3>
 <p align="left">
